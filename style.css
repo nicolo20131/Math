@@ -1,0 +1,32 @@
+#parteIniziale {
+   color: brown;
+   margin-bottom: 20px; /* spazio sotto */
+}
+
+#resto {
+  color: crimson;
+}
+/* Ingrandisci il testo del link "supporti" */
+a {
+  font-size: 18px;
+}
+
+/* Ingrandisci la casella di testo */
+input[type="text"] {
+  width: 300px;
+  height: 30px;
+  font-size: 16px;
+}
+#supp{
+    color:crimson;
+    font-size: 20px;
+}
+#frazioni{
+ color:crimson;
+ font-size: 20px;
+}
+
+
+
+
+
